@@ -204,15 +204,6 @@ O que significa o `-` antes de `%cpu` no `--sort`?
 
 ---
 
-## 📝 Entrega
-
-Entregue um documento (PDF ou .txt) com:
-
-- Seu nome e número de matrícula
-- As respostas de cada questão
-- Prints do terminal mostrando os comandos executados (quando pedido)
-
----
 
 ## 🔗 Referências para Consulta
 
