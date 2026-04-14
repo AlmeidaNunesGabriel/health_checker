@@ -9,7 +9,7 @@ THRESHOLD_TEMP=75
 #CORES
 
 RED='\e[31m'
-YELLO='\e[33m'
+YELLOW='\e[33m'
 CYAN='\e[36m'
 BOLD='\e[1m'
 RESET='\e[0m'
